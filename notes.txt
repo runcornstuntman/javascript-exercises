@@ -1,0 +1,12 @@
+Best way to approach 
+(summary of the README.md)
+
+cd into the file then run the below command
+
+npm test exerciseName.spec.js
+
+This will run the exercise test, which will against the conditions outlined within the test file.
+If a test file has a test.skip, complete any test's first then change the test.skip to a test
+
+If your solution is different from what is contained within the solutions folder, however it works
+that is fine. Understand the why, use discord etc. 
